@@ -1,0 +1,4388 @@
+[
+  {
+    "prompt": "Once upon a",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 0,
+      "head": 10,
+      "probability_drop": 0.04289560697235417
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": -0.0008136190919320052
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": -0.0009887455852011229
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": 0.0024014717711527966
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": 0.000651894975608247
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": 0.0005788819588125049
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": 0.00035950328584333224
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": 0.002574295014975081
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": 0.0011413687930074135
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.012273748707056442
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": -0.0009648530180355053
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": 0.04289560697235417
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": -0.00022246926560387514
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": 0.001480508075648368
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": -0.0019499127132907024
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.00014546477032195693
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": 0.007248427297676607
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": 0.00856239364010436
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": -0.0012091633691552195
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": 0.0023990459244591644
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": -0.0011567727497416858
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": -0.0029003896707069377
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": -7.420138497760131e-05
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": 0.00048653050098002026
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": 0.0010304278767920838
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": 0.002732116495968384
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": 0.0003615177839628725
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": -0.0010027185329145594
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": 0.014028881305151897
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": 6.662350556063679e-05
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": 0.005864534883527561
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": -0.0007717999562398825
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": -3.5384955564543574e-06
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": -0.0019555493897069898
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": 0.0028614525293485515
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": -0.0007325451532763649
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": -0.000925155010141232
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": 0.0029183732376881766
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": 0.0015915551708958198
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": 0.003997746406388614
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": -0.0024220545468117693
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": -0.0011365874375681706
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": 0.0018794693450554512
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": -0.0023243518269930874
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": 0.0019547012254654828
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": -0.002897583799020831
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": -0.0014466600807518937
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": -0.0006496687322931072
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": 0.00032569495929335446
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": 0.00325110305598153
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": 0.0003277924347083738
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": 0.0011859939764814476
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": -9.478783913585698e-05
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": -0.0005729725299959965
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": -0.00022037283790043993
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": 0.0015307347184621012
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.0006042326562004652
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": -0.0005648379428065953
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": 0.0008102277132018276
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": 0.00036467606800760777
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": 0.0015070423644812925
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": -0.00017150597030057835
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": 0.0008650913255392467
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": 0.0006579519732066164
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": -0.0001905039425916799
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": 0.00030889158731439714
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": 0.0010797618015023769
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": -0.00027048202864166093
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": 0.0031262734538511916
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": -0.0005756156700581494
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": 0.004830149553159635
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": -0.0010214953699646534
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": -0.0007577008153577536
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": -0.0003571455666222523
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": -0.0030956306187330807
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": 0.00020317569313366146
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": 0.0005130056500339819
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": -0.0005926319594989904
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": 0.0007660092909976823
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": -0.000815529211675603
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": -0.0005957490565509094
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.0011267242342956063
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": 0.0016308875720615346
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": 0.0001739266573829168
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": 0.00010541521957951883
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": 0.002420770678241868
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": -0.00024451696032368186
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": -5.679678012238121e-06
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.0008635237543249685
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": 0.00044851271161439055
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": -0.0012854537162252377
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": 0.0002823770297233352
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 1.1521721667850926e-05
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": -0.0008587174328209546
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": -0.0003493028418807276
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": 0.00018520235805019603
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": 0.00028861440264094096
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": -4.56127792906047e-05
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": -0.0002739934564462976
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": 0.00029458707339780066
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": 1.3919165415376966e-05
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": -0.0003985981647759429
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": -0.0005779947391991724
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": 5.8452257619356907e-05
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": 0.0027017285962240845
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": -0.0001056769284293324
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": -0.00037755819814799807
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": 0.0003456971493245309
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": -0.00016501057748496972
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": -0.00044029396215616856
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": -0.0005401573253098757
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": 0.00016622746541283817
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": 0.0002913888144964183
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": 0.0005179569038235021
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": 0.0005789468908533602
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": -2.9148889388985744e-05
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": -2.9412749968149576e-05
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.00011114912702703261
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": -0.00041610681424553153
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": 0.0016545663878371197
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": 0.0008530731246172429
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": 0.0003285882352073166
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": 4.8542584187849513e-05
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.0006614664265908177
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": -1.5796559509340113e-06
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": -0.0006817304664644697
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": 0.00016434228716910582
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": -0.00021423004558795977
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": 0.0009349607884470146
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": -0.0005209935566925505
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": 0.0009334070710443898
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": -9.956837371516425e-05
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": -0.0007643954927738505
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": 0.006767810544697883
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": 0.0006208813928808565
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": -0.00014240868366277581
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": -0.0008975014234441359
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": 0.000195864133702095
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": -0.0001878760055303852
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.0001942195714773609
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": 9.727902355149975e-05
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": -5.4171431166594175e-05
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": -0.00036957471610588044
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": 0.0007479281826223705
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": 0.0004703490113139308
+      }
+    ]
+  },
+  {
+    "prompt": "Alice gave Bob a book. Bob thanked",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 9,
+      "head": 4,
+      "probability_drop": 0.4068870465364046
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": 0.19027781333897142
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": 0.025016768489659502
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": 0.03671228191884213
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": 0.013294258127632408
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": -0.0026835616842489918
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": 0.02163450737349637
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": -0.0038352785642010723
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": 0.32112773096583713
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.04839915657925353
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": 0.14479360189841461
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": 0.1293779545800905
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": -0.023581371729225475
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": -0.00034150612757855026
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": 0.012858299478388457
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.013757970522678575
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": 0.2185249757081703
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": -0.012914922839477927
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": 0.007276203876878218
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": 0.040482074730531115
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": 0.0030673600773097887
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": 0.009547775710024409
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": 0.0012602470097949903
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": -0.056153806844093546
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": -0.023425596696196482
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": -0.03724199260497385
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": -0.0037974011926458218
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": -0.00028510309261864375
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": -0.012188512308570876
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": -0.004079889383871493
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": 0.01761677304436704
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": -0.01015038600590834
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": -0.01865161755360245
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": -0.004448971344956698
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": -0.035351463974148456
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": 0.0009245165219972096
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": 0.1313204871064193
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": 0.04813603248030818
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": 0.017465822593476066
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": -0.02626423648781928
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": 0.001408121241363136
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": -0.0189365638608866
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": -0.0014444746359528748
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": -0.02670609553813863
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": -0.012528908102018121
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": 0.008317649090665125
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": 0.03217750546703768
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": 0.025036322664187205
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": 0.0018653752610051644
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": -0.014962919497099936
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": -0.001229586317310516
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": 0.0037989123082619036
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": -0.0283101998983305
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": 0.02916807622469797
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": -0.009508746906572108
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": 0.03025024892749406
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.00934892489548167
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": 0.03221478517985055
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": -0.009755167075576443
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": 0.021433260384532526
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": 0.005808668847190446
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": -0.00872426650104463
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": 0.002704284291507375
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": 0.005820783551925057
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": 0.00010730115397461493
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": -0.011871322115144523
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": 0.06473145099121136
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": 0.0058171177792690765
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": 0.009304962402045036
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": 0.08248726590684974
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": 0.19602518822284754
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": 0.010873802749124972
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": 0.005233507699406892
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": 0.002824904200315781
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": -0.013149541402686094
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": 0.03098450307191436
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": -0.04570967697531325
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": -0.017142719416038288
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": 0.03546288781483631
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": 0.04507376910375516
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": 0.01876506010700507
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.008011698040402693
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": -7.677136524331107e-05
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": -0.002999431994545776
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": 0.003591574305545575
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": 0.0005049652333397603
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": -0.007656441364844446
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": 0.0002530218465959244
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.021305587546962657
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": -0.001497305760605805
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": 0.0014246832681744648
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": 0.015762071108816778
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 0.007858907491468226
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": -0.0027378646858077227
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": 0.015147768873646661
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": -0.0031630868707628323
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": 0.01060426722904595
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": 0.008659258503334821
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": 0.004271965666580724
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": -0.016432487767627513
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": -0.03678827105977722
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": 0.005120169472541347
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": -0.0072889990795155235
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": -0.00453704303651703
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": -0.002839045121017292
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": 0.010638074947201814
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": 0.029879171038836083
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": 0.05547478400030714
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": 0.0002577560131266088
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": -0.003863776653880824
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": -0.001350748412241698
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": -0.00767570789957972
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": 0.008375546269876799
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": 0.4068870465364046
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": -0.005923292395299429
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": 0.03051839710554749
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": -0.005228240291731967
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.0036374572340780453
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": 0.048187475841567684
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": 0.009325457088808498
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": 0.011085186735722785
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": 0.3082110082282091
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": -0.0014025779696589247
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.09452030541044165
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": 0.016738401138677084
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": 0.004940077085711425
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": 0.001617886573016758
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": 0.018593196292329806
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": -0.07854647058237907
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": 0.0013740960917272282
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": -0.022502937186418936
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": 0.10441699664407778
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": 0.003434785487652303
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": 0.26906804005927765
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": 0.04132071130497994
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": -0.0018248500958492064
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": 0.009634088847903954
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": 0.0031060211855580278
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": 0.004302408615453168
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.0026468608187659726
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": 0.001984607203555533
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": -0.008191895071980482
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": -0.008857004070923824
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": -0.08015151932801057
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": 0.031254823176792956
+      }
+    ]
+  },
+  {
+    "prompt": " red blue green red blue green red",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 1,
+      "head": 3,
+      "probability_drop": 0.2762230986169408
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": 0.05549200496121259
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": -0.015241187439624826
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": 0.07748224097581102
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": 0.019317763469121618
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": -0.002670209670841306
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": -0.031401154015282984
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": -0.07100232707153992
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": 0.23401665280659056
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.07403899752275533
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": 0.027073862835696794
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": 0.09618517808684013
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": -0.039083620400341856
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": 0.009753268284329764
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": 0.04523070814579738
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.017061443077955263
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": 0.2762230986169408
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": 0.08167269637681335
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": 0.059160968693305116
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": 0.0048505952007064645
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": -0.03699176458148734
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": 0.07065681802899587
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": 0.01786477973984174
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": 0.10180023174272196
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": 0.010956253951954986
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": 0.06842025391144035
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": 0.016532960127545626
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": -0.000372365029180477
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": 0.07951489439039616
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": 0.015069569238421121
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": 0.10707713686103637
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": -0.000675927993529446
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": -0.05398307501622329
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": 0.1199098587746599
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": 0.01774238779531817
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": 0.040038575547486854
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": 0.02985841220912583
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": 0.08510338362945574
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": 0.04324950391457977
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": 0.03338439916025898
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": 0.010375167285877063
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": 0.10593995608976453
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": 0.006068531658250997
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": -0.05661879301128836
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": -0.004300634782009427
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": -0.038619028405789624
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": 0.01616608624453164
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": 0.046495301192373606
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": 0.010255208111260072
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": 0.004483248117366778
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": -0.02447625205488202
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": -0.018289400800708955
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": -0.03427921250755683
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": 0.0784956620301882
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": 0.0024875420754192357
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": 0.08021608393643892
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.033208553224555126
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": 0.024905974307074585
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": 0.007146809711301549
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": 0.004739295655235232
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": 0.036676633049589735
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": 0.11152228452059676
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": -0.10613666879942607
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": 0.0011898566154913692
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": 0.06744881664716545
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": 0.00513565456688897
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": 0.06374040913088724
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": -0.02918270060572986
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": 0.007671594682714389
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": -0.11417495971315589
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": 0.007043568114343146
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": 0.028808313384574902
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": 0.06266092385161798
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": -0.020476202353637785
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": -0.011101355288934911
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": 0.00702992905652039
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": 0.013643677037817492
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": -0.007749318320327214
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": -0.013330878129889479
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": 0.06732427773392613
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": 0.027383294203228936
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.003002874079252038
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": 0.028038584872816352
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": 0.14725510391214028
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": -0.017502417749934107
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": 0.0024518067998096638
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": 0.003134844513979773
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": -0.002029531186708622
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.008308023937384945
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": 0.004236026290071526
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": -0.024243974649974853
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": 0.16127523272336508
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 0.01476114902672132
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": -0.002595047324715438
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": 0.007941454945087467
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": -0.12443304870917776
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": 0.007546366804143834
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": 3.918254749468719e-05
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": -0.043792460681346845
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": 0.005119046052873666
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": -0.018392776332891603
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": 0.0022258763482216892
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": -0.0008565206340755971
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": 0.06616287942120158
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": -0.004623941094568762
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": 0.002883646323798894
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": -0.05627531284976156
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": 0.005849073107487279
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": 0.00034299493530376424
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": -0.008646270219043184
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": -0.015906033970044198
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": 0.009450825252760198
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": -0.0007883274155581765
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": -0.01954737835834508
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": 0.012363043936170603
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": -0.01166929137976147
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": 0.025999349983112485
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.00531920185837903
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": 0.026911782868781486
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": 0.0024218299733003157
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": 0.005061676960885331
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": 0.006662036011508166
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": 0.0363781835681517
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.0023590723776865663
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": -0.005866740017918148
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": 0.021416392014684815
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": -0.004901160939221438
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": -0.00010531009637038125
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": 0.020245004729259608
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": 0.010823923947154146
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": 0.005399910058573765
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": -0.003950952986017553
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": 0.012559090331900502
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": 0.19550791082177363
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": -0.009784880502672233
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": 0.009557790415453182
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": 0.011767892624312215
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": 0.023017509449176465
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": -0.0015796424559030853
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.04147793746602363
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": 0.00683883523979284
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": 0.010860337804746767
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": -0.009669163786333368
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": -0.01595344454627423
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": 0.025313364659755366
+      }
+    ]
+  },
+  {
+    "prompt": "The rain fell softly. The rain fell",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 11,
+      "head": 0,
+      "probability_drop": 0.0537119036415535
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": -0.013676241561958596
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": 0.0002659083300249887
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": 0.007240540822971819
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": 0.0014604329883192435
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": -0.0057371789048706184
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": -0.009868102952057048
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": -0.008427486982227422
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": 0.023424692018667995
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.002472793451133895
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": 0.01276824061450589
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": 0.05132013441512482
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": 0.007197122268790504
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": 0.0008598512766395255
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": 0.009596787849139338
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.005090881932708902
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": 0.02699906546865749
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": -0.0008709985113353885
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": -0.006844980644320375
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": 0.0008365238725420721
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": -0.0068539641685375075
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": 0.008787023265078797
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": -0.001389437702407098
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": 0.015131503792588305
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": 0.011024141267509183
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": -0.0014698789226419706
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": -0.004978471777270871
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": 0.014361805734939406
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": 0.005566799192976285
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": -0.0006606779463158435
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": -0.004664835565843489
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": 0.0034877306024331672
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": -0.0037227220205256484
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": 0.010413093993928119
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": -0.003848817717478137
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": -0.00838637141345773
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": 0.009342675581098858
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": 0.014297926798526955
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": 0.005184429539662139
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": -6.537437291412318e-05
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": -0.00018610661588090716
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": -0.0051363739633759065
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": 0.012622836685347957
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": -0.006051751747666853
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": 0.006662149211500046
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": -0.001242787090470071
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": 0.0034812687968364536
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": -0.0021518644177321855
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": -0.0031816901526529606
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": -0.012077335249036536
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": -0.0018959147307481966
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": -0.011282175049509485
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": 0.008943003084963347
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": 0.022887441908974654
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": -0.0006190714867256725
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": 0.007062313927799352
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.017658826549241682
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": 0.0037085246141281836
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": 0.001368835450629255
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": -4.2468671400064384e-05
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": 0.01889140394966056
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": 0.018312945540367442
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": -0.008211270638287124
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": -0.002208706490174961
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": 0.00634904875663668
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": -0.0029451874097532055
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": 0.02107924152060829
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": -0.008666772923059729
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": 0.0011806232256276888
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": 0.004107974565153008
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": -0.027847680286070348
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": -0.01449650972003419
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": 0.019845523424886824
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": 0.0021456008448048902
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": 0.0035259391297643022
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": -0.0024255684696346674
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": 0.002384605102209031
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": -0.00590257678028773
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": 0.007661152581332667
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": 0.014887226722437294
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": -0.001826427999808089
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.0021336060993269873
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": -0.0008673018904053337
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": 0.014387510795061564
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": 0.0024760099666752133
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": -0.0013495432096423121
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": -0.001937949229595698
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": -0.0013570352971177951
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.004050356670568231
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": 0.0025511427264046094
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": 0.003216969924435778
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": 0.012404733313482297
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 0.0009892744534848175
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": 0.006156166465034446
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": 0.0001297772384630247
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": -0.006207525180053394
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": -0.005476316933737138
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": 0.003244799773102741
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": -0.003752173831382155
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": -0.0007377163274095155
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": -0.002757369753136049
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": -0.0026126702716261774
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": 0.006071310279216063
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": 0.0022885109648757285
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": 0.00266451902505678
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": 0.0014713000851391406
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": 0.003586641120310999
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": 0.007172955005522147
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": 0.00023422135521107557
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": 0.003478499870588861
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": 0.005823820552612033
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": -0.0028302325669992273
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": 0.001441891875535492
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": -0.0032855014170203867
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": 0.007227644806817188
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": -0.013325770873749435
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": 0.0031844946442289718
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.0007515653036926639
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": -0.0025751894985617113
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": -0.0014886127177709124
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": 0.00022219852048202537
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": -0.003264225373265678
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": 0.014669320939922209
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.0043433482846507165
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": -0.000860705087723318
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": 0.008596752105296396
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": 0.004211652664188853
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": 0.005439522590273083
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": -0.015337040293582002
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": 0.004610466794751258
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": 0.0006748714837916114
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": -0.000956226188668946
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": -0.005540139021262908
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": 0.0537119036415535
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": 5.354607215819762e-05
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": 0.00116902208573115
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": -0.0026458115396341547
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": 0.008222713464577341
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": 0.002265027129223496
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.0004303609474625991
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": -0.003987982963484515
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": -0.0027031669491213023
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": 0.009735155976373033
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": -0.0013168231587646212
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": -0.009604247584594633
+      }
+    ]
+  },
+  {
+    "prompt": "Wait, wait... What happens next?",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 0,
+      "head": 10,
+      "probability_drop": 0.13388868042872626
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": -0.5171525955721838
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": 0.08368032416631938
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": -0.01022419168673705
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": -0.01396886955735227
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": -0.0010712237919553447
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": -0.005570454751110898
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": -0.05156455288254724
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": -0.5683724020537578
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.053388940013944064
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": 0.059756423745084386
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": 0.13388868042872626
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": 0.013653826852199291
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": -0.0027559783858592257
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": 0.024015987075985623
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.025401877030484132
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": 0.004173716356232593
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": 0.010604229346385108
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": -0.03901851849221927
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": -0.0040227869887662915
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": -0.012699823823301537
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": 0.019905026740384635
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": -0.0032650136437509247
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": 0.024826434602288894
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": 0.012171685646594377
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": 0.09684445203779657
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": -0.0008894250138731796
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": 0.005208154208112492
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": 0.061295493705449844
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": -0.02007640525824994
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": 0.016225767560103188
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": -0.0062947379879062515
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": -0.02406184500651798
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": -0.033230614064722
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": 0.025997682459389937
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": 0.039310423441078324
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": 0.03263573984151619
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": 0.024145200262677413
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": -0.012642158924946578
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": 0.03297548921819743
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": 0.000614327139195181
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": 0.009144900179038906
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": -0.021613603293386185
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": 0.03029881070343604
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": 0.026959619848026584
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": -0.03223510044483452
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": -0.038509542816222875
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": 0.00018634071887307924
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": 0.02791159622449968
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": -0.014902781220942074
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": -0.007725435822788951
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": 0.06932799151324665
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": 0.00470835820531279
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": 0.006312550058483302
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": -0.003012431600118215
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": 0.0008953013604571791
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.01879440777351682
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": -0.0034036500901724054
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": 0.0003256439793440369
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": 0.005559650910718306
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": 0.00807495358068705
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": -0.004251602470960125
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": 0.009066605704735442
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": 0.005100819966172732
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": 0.005780187757772448
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": -0.015122517468720786
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": 0.03737627274360933
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": -0.007511356088108323
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": -0.024802687949801283
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": -0.004631258404338756
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": 0.039350781761754106
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": -0.032900525653946855
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": -0.009329680921613015
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": -0.0007608833877925103
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": 0.014847323039657134
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": 0.01745853648399509
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": 0.03109409267212815
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": -0.015407598270358536
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": -0.05025388238401013
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": -0.025474036420236545
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": -0.012063174917790409
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.00665694304360448
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": 0.0005454646419344455
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": 0.0023152414080690464
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": 0.013047810485571076
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": 0.00020701831321706665
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": 0.010721385514154691
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": 0.003781570319633887
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.009680241838515236
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": 0.02264003899938427
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": 0.0056386156694253065
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": -0.020627664278503988
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 0.001428141007007333
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": -0.004294006043761067
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": -0.005926185908897708
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": -0.00033302966165749126
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": 0.00031501890331808724
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": -0.039738801368705945
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": 0.003415814285311347
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": -0.009851699660749225
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": -0.000763529780340777
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": 0.005093116942324449
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": 0.03146222010961386
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": 0.008583082491686378
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": -0.010539558963123863
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": 0.005331515312756829
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": 0.020776772805482846
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": -0.0046274358053925435
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": -0.002573294514630897
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": 0.008981607060379981
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": 0.004625464991867667
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": 0.002666105147957454
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": -0.026599032648659315
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": 0.0004922410934945498
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": 0.10850884120104376
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": 9.709422230841369e-05
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": -0.0019443904155592162
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.0009541819484005787
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": -0.0025369083201238207
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": -0.0017448355805724236
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": 0.0043615790790974
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": 0.0010575399215894676
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": -0.004809714401735221
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.007447024639413546
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": 0.004541783754861306
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": -0.01653246955700388
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": 0.006479566470802223
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": -0.0010497185291015732
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": -0.008402549416197835
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": 0.002711934373321734
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": 0.005599527128109627
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": -0.0034577232034160854
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": -0.0007897963383957096
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": -0.06028941544297545
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": 0.0034140697910789997
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": 0.003916781173676609
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": -0.00012049124957014268
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": -0.007624461529994242
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": 0.012615609196982625
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.00301932169914948
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": 0.0015290947762856
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": 0.02760324339979331
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": 0.003660517899673532
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": -0.003770684273345093
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": -0.0013603898746187282
+      }
+    ]
+  },
+  {
+    "prompt": "The captial of France is",
+    "selection": "largest decrease in clean top-token probability among all 144 single-head ablations",
+    "selected": {
+      "layer": 0,
+      "head": 11,
+      "probability_drop": 0.011938407285962647
+    },
+    "scores": [
+      {
+        "layer": 0,
+        "head": 0,
+        "probability_drop": -0.011715786929943184
+      },
+      {
+        "layer": 0,
+        "head": 1,
+        "probability_drop": -0.0009503447618038688
+      },
+      {
+        "layer": 0,
+        "head": 2,
+        "probability_drop": -0.00029850089202076296
+      },
+      {
+        "layer": 0,
+        "head": 3,
+        "probability_drop": -0.011176876396082502
+      },
+      {
+        "layer": 0,
+        "head": 4,
+        "probability_drop": 0.00726272457478774
+      },
+      {
+        "layer": 0,
+        "head": 5,
+        "probability_drop": 0.006004208696681335
+      },
+      {
+        "layer": 0,
+        "head": 6,
+        "probability_drop": 0.003077801974413999
+      },
+      {
+        "layer": 0,
+        "head": 7,
+        "probability_drop": -0.011676739982208022
+      },
+      {
+        "layer": 0,
+        "head": 8,
+        "probability_drop": 0.00992697274988526
+      },
+      {
+        "layer": 0,
+        "head": 9,
+        "probability_drop": -0.0032576532318453824
+      },
+      {
+        "layer": 0,
+        "head": 10,
+        "probability_drop": -0.028504778587063462
+      },
+      {
+        "layer": 0,
+        "head": 11,
+        "probability_drop": 0.011938407285962647
+      },
+      {
+        "layer": 1,
+        "head": 0,
+        "probability_drop": 0.003561242064965872
+      },
+      {
+        "layer": 1,
+        "head": 1,
+        "probability_drop": -0.015082764650878988
+      },
+      {
+        "layer": 1,
+        "head": 2,
+        "probability_drop": -0.0026084243121311593
+      },
+      {
+        "layer": 1,
+        "head": 3,
+        "probability_drop": -0.02486484350287327
+      },
+      {
+        "layer": 1,
+        "head": 4,
+        "probability_drop": 0.003848759703019282
+      },
+      {
+        "layer": 1,
+        "head": 5,
+        "probability_drop": 0.0015859324549074572
+      },
+      {
+        "layer": 1,
+        "head": 6,
+        "probability_drop": -0.0057179618923190526
+      },
+      {
+        "layer": 1,
+        "head": 7,
+        "probability_drop": -0.002754619494437685
+      },
+      {
+        "layer": 1,
+        "head": 8,
+        "probability_drop": -0.014076078124056132
+      },
+      {
+        "layer": 1,
+        "head": 9,
+        "probability_drop": -0.009007745271737054
+      },
+      {
+        "layer": 1,
+        "head": 10,
+        "probability_drop": -0.0026638044486366266
+      },
+      {
+        "layer": 1,
+        "head": 11,
+        "probability_drop": 0.0031284295936091985
+      },
+      {
+        "layer": 2,
+        "head": 0,
+        "probability_drop": -0.004165532765513354
+      },
+      {
+        "layer": 2,
+        "head": 1,
+        "probability_drop": -0.0021800046419172894
+      },
+      {
+        "layer": 2,
+        "head": 2,
+        "probability_drop": -0.005085027777375649
+      },
+      {
+        "layer": 2,
+        "head": 3,
+        "probability_drop": -0.00935085137065135
+      },
+      {
+        "layer": 2,
+        "head": 4,
+        "probability_drop": -0.017514689363754644
+      },
+      {
+        "layer": 2,
+        "head": 5,
+        "probability_drop": -0.007187709840940332
+      },
+      {
+        "layer": 2,
+        "head": 6,
+        "probability_drop": -0.0016335799057940817
+      },
+      {
+        "layer": 2,
+        "head": 7,
+        "probability_drop": 0.0007721037000194483
+      },
+      {
+        "layer": 2,
+        "head": 8,
+        "probability_drop": -0.0011574495151315811
+      },
+      {
+        "layer": 2,
+        "head": 9,
+        "probability_drop": 0.005545760246697947
+      },
+      {
+        "layer": 2,
+        "head": 10,
+        "probability_drop": -0.005905544052120154
+      },
+      {
+        "layer": 2,
+        "head": 11,
+        "probability_drop": -0.005269147419795291
+      },
+      {
+        "layer": 3,
+        "head": 0,
+        "probability_drop": -0.005681723768740078
+      },
+      {
+        "layer": 3,
+        "head": 1,
+        "probability_drop": -0.003972324994151226
+      },
+      {
+        "layer": 3,
+        "head": 2,
+        "probability_drop": -0.007155930927991626
+      },
+      {
+        "layer": 3,
+        "head": 3,
+        "probability_drop": -0.00018688718737525783
+      },
+      {
+        "layer": 3,
+        "head": 4,
+        "probability_drop": -0.00383729848824433
+      },
+      {
+        "layer": 3,
+        "head": 5,
+        "probability_drop": 8.33811289620151e-05
+      },
+      {
+        "layer": 3,
+        "head": 6,
+        "probability_drop": -0.003253181781860362
+      },
+      {
+        "layer": 3,
+        "head": 7,
+        "probability_drop": 0.0013575263161591106
+      },
+      {
+        "layer": 3,
+        "head": 8,
+        "probability_drop": 0.0001674244871552738
+      },
+      {
+        "layer": 3,
+        "head": 9,
+        "probability_drop": -0.0017006584801548472
+      },
+      {
+        "layer": 3,
+        "head": 10,
+        "probability_drop": -0.001258021490674617
+      },
+      {
+        "layer": 3,
+        "head": 11,
+        "probability_drop": -0.003260446660310924
+      },
+      {
+        "layer": 4,
+        "head": 0,
+        "probability_drop": -0.005286556246153699
+      },
+      {
+        "layer": 4,
+        "head": 1,
+        "probability_drop": -0.00039781304456930344
+      },
+      {
+        "layer": 4,
+        "head": 2,
+        "probability_drop": 0.0007262991904649907
+      },
+      {
+        "layer": 4,
+        "head": 3,
+        "probability_drop": 0.0018861049582214948
+      },
+      {
+        "layer": 4,
+        "head": 4,
+        "probability_drop": -0.0014578680239052538
+      },
+      {
+        "layer": 4,
+        "head": 5,
+        "probability_drop": -0.0024460132760701775
+      },
+      {
+        "layer": 4,
+        "head": 6,
+        "probability_drop": -0.005716010127273928
+      },
+      {
+        "layer": 4,
+        "head": 7,
+        "probability_drop": -0.00038085257581065707
+      },
+      {
+        "layer": 4,
+        "head": 8,
+        "probability_drop": -0.0017321757528942355
+      },
+      {
+        "layer": 4,
+        "head": 9,
+        "probability_drop": -0.00017071424398934498
+      },
+      {
+        "layer": 4,
+        "head": 10,
+        "probability_drop": 0.0019275849979913592
+      },
+      {
+        "layer": 4,
+        "head": 11,
+        "probability_drop": -0.00398466141279389
+      },
+      {
+        "layer": 5,
+        "head": 0,
+        "probability_drop": 0.001253386674879009
+      },
+      {
+        "layer": 5,
+        "head": 1,
+        "probability_drop": -0.004775774748648438
+      },
+      {
+        "layer": 5,
+        "head": 2,
+        "probability_drop": -0.005013931416120672
+      },
+      {
+        "layer": 5,
+        "head": 3,
+        "probability_drop": -0.0015227477570908324
+      },
+      {
+        "layer": 5,
+        "head": 4,
+        "probability_drop": -0.002190130169222086
+      },
+      {
+        "layer": 5,
+        "head": 5,
+        "probability_drop": -0.02509284710753626
+      },
+      {
+        "layer": 5,
+        "head": 6,
+        "probability_drop": -0.0025019807483276577
+      },
+      {
+        "layer": 5,
+        "head": 7,
+        "probability_drop": 0.0008243318573316824
+      },
+      {
+        "layer": 5,
+        "head": 8,
+        "probability_drop": -5.153243714024758e-05
+      },
+      {
+        "layer": 5,
+        "head": 9,
+        "probability_drop": -0.0070389837318569765
+      },
+      {
+        "layer": 5,
+        "head": 10,
+        "probability_drop": 0.0012988100223221
+      },
+      {
+        "layer": 5,
+        "head": 11,
+        "probability_drop": -0.0011918412779314685
+      },
+      {
+        "layer": 6,
+        "head": 0,
+        "probability_drop": -0.002849368796146938
+      },
+      {
+        "layer": 6,
+        "head": 1,
+        "probability_drop": 0.001486032554952138
+      },
+      {
+        "layer": 6,
+        "head": 2,
+        "probability_drop": -0.00013965958791314903
+      },
+      {
+        "layer": 6,
+        "head": 3,
+        "probability_drop": -0.0026474390619226768
+      },
+      {
+        "layer": 6,
+        "head": 4,
+        "probability_drop": 0.00046471801598602785
+      },
+      {
+        "layer": 6,
+        "head": 5,
+        "probability_drop": -0.0008234076996794862
+      },
+      {
+        "layer": 6,
+        "head": 6,
+        "probability_drop": -0.0005336479202157976
+      },
+      {
+        "layer": 6,
+        "head": 7,
+        "probability_drop": -0.0012814335398423846
+      },
+      {
+        "layer": 6,
+        "head": 8,
+        "probability_drop": 0.0003234456559722057
+      },
+      {
+        "layer": 6,
+        "head": 9,
+        "probability_drop": -0.0006240529329367486
+      },
+      {
+        "layer": 6,
+        "head": 10,
+        "probability_drop": -0.00035077518644374694
+      },
+      {
+        "layer": 6,
+        "head": 11,
+        "probability_drop": 0.0008929077266555396
+      },
+      {
+        "layer": 7,
+        "head": 0,
+        "probability_drop": -0.00034638362231490666
+      },
+      {
+        "layer": 7,
+        "head": 1,
+        "probability_drop": 0.000591306703117675
+      },
+      {
+        "layer": 7,
+        "head": 2,
+        "probability_drop": 0.0002608223159725129
+      },
+      {
+        "layer": 7,
+        "head": 3,
+        "probability_drop": -0.004528570005934152
+      },
+      {
+        "layer": 7,
+        "head": 4,
+        "probability_drop": -0.00224213354081277
+      },
+      {
+        "layer": 7,
+        "head": 5,
+        "probability_drop": 7.055411578569398e-05
+      },
+      {
+        "layer": 7,
+        "head": 6,
+        "probability_drop": -0.0016767832676032254
+      },
+      {
+        "layer": 7,
+        "head": 7,
+        "probability_drop": 0.001132468025796217
+      },
+      {
+        "layer": 7,
+        "head": 8,
+        "probability_drop": 0.006345827382727598
+      },
+      {
+        "layer": 7,
+        "head": 9,
+        "probability_drop": 2.6894951295548808e-05
+      },
+      {
+        "layer": 7,
+        "head": 10,
+        "probability_drop": 0.000846738822093171
+      },
+      {
+        "layer": 7,
+        "head": 11,
+        "probability_drop": -0.0009022571958981762
+      },
+      {
+        "layer": 8,
+        "head": 0,
+        "probability_drop": -0.0007080119880879948
+      },
+      {
+        "layer": 8,
+        "head": 1,
+        "probability_drop": -0.0009938598838013582
+      },
+      {
+        "layer": 8,
+        "head": 2,
+        "probability_drop": -0.0017383086652667454
+      },
+      {
+        "layer": 8,
+        "head": 3,
+        "probability_drop": -3.0896176486661098e-06
+      },
+      {
+        "layer": 8,
+        "head": 4,
+        "probability_drop": 0.0037904540897605726
+      },
+      {
+        "layer": 8,
+        "head": 5,
+        "probability_drop": 0.0004966847969634161
+      },
+      {
+        "layer": 8,
+        "head": 6,
+        "probability_drop": 0.0005272061759860475
+      },
+      {
+        "layer": 8,
+        "head": 7,
+        "probability_drop": -0.0003120220685999611
+      },
+      {
+        "layer": 8,
+        "head": 8,
+        "probability_drop": 0.0015821987665059975
+      },
+      {
+        "layer": 8,
+        "head": 9,
+        "probability_drop": -0.0008740446319408235
+      },
+      {
+        "layer": 8,
+        "head": 10,
+        "probability_drop": -0.0023205207450850696
+      },
+      {
+        "layer": 8,
+        "head": 11,
+        "probability_drop": 2.159728750924378e-05
+      },
+      {
+        "layer": 9,
+        "head": 0,
+        "probability_drop": -0.00045779383937501195
+      },
+      {
+        "layer": 9,
+        "head": 1,
+        "probability_drop": 0.0011383136718926615
+      },
+      {
+        "layer": 9,
+        "head": 2,
+        "probability_drop": 0.0012027529125425013
+      },
+      {
+        "layer": 9,
+        "head": 3,
+        "probability_drop": -0.0006176288038353475
+      },
+      {
+        "layer": 9,
+        "head": 4,
+        "probability_drop": -0.0013098748646547462
+      },
+      {
+        "layer": 9,
+        "head": 5,
+        "probability_drop": -0.0004416693852958495
+      },
+      {
+        "layer": 9,
+        "head": 6,
+        "probability_drop": -0.00016128574312451738
+      },
+      {
+        "layer": 9,
+        "head": 7,
+        "probability_drop": 0.0005598817871065032
+      },
+      {
+        "layer": 9,
+        "head": 8,
+        "probability_drop": -0.00025694138352101714
+      },
+      {
+        "layer": 9,
+        "head": 9,
+        "probability_drop": -0.00013464098879313602
+      },
+      {
+        "layer": 9,
+        "head": 10,
+        "probability_drop": -0.0004331896207945968
+      },
+      {
+        "layer": 9,
+        "head": 11,
+        "probability_drop": -0.00045404735058821033
+      },
+      {
+        "layer": 10,
+        "head": 0,
+        "probability_drop": -0.00041859186328917913
+      },
+      {
+        "layer": 10,
+        "head": 1,
+        "probability_drop": 0.0015937489893653733
+      },
+      {
+        "layer": 10,
+        "head": 2,
+        "probability_drop": 0.00034752214912867063
+      },
+      {
+        "layer": 10,
+        "head": 3,
+        "probability_drop": 0.001521178031437101
+      },
+      {
+        "layer": 10,
+        "head": 4,
+        "probability_drop": 0.00041632198530084513
+      },
+      {
+        "layer": 10,
+        "head": 5,
+        "probability_drop": -8.117207704246704e-05
+      },
+      {
+        "layer": 10,
+        "head": 6,
+        "probability_drop": -0.0009430087646131874
+      },
+      {
+        "layer": 10,
+        "head": 7,
+        "probability_drop": 3.05641862396594e-05
+      },
+      {
+        "layer": 10,
+        "head": 8,
+        "probability_drop": -0.001907631765391861
+      },
+      {
+        "layer": 10,
+        "head": 9,
+        "probability_drop": -0.000947570429858817
+      },
+      {
+        "layer": 10,
+        "head": 10,
+        "probability_drop": -0.0010826378623451025
+      },
+      {
+        "layer": 10,
+        "head": 11,
+        "probability_drop": -9.174402421863875e-05
+      },
+      {
+        "layer": 11,
+        "head": 0,
+        "probability_drop": -0.007650614749048372
+      },
+      {
+        "layer": 11,
+        "head": 1,
+        "probability_drop": 0.00010356699227408173
+      },
+      {
+        "layer": 11,
+        "head": 2,
+        "probability_drop": 9.018796701612541e-05
+      },
+      {
+        "layer": 11,
+        "head": 3,
+        "probability_drop": -6.602934452493853e-05
+      },
+      {
+        "layer": 11,
+        "head": 4,
+        "probability_drop": -0.001682487698598828
+      },
+      {
+        "layer": 11,
+        "head": 5,
+        "probability_drop": 0.0008760149264144118
+      },
+      {
+        "layer": 11,
+        "head": 6,
+        "probability_drop": 0.00024624993826359576
+      },
+      {
+        "layer": 11,
+        "head": 7,
+        "probability_drop": -0.00041583409545970645
+      },
+      {
+        "layer": 11,
+        "head": 8,
+        "probability_drop": -0.00012351703380077128
+      },
+      {
+        "layer": 11,
+        "head": 9,
+        "probability_drop": 0.0004692232629843543
+      },
+      {
+        "layer": 11,
+        "head": 10,
+        "probability_drop": -0.0004636783268923417
+      },
+      {
+        "layer": 11,
+        "head": 11,
+        "probability_drop": 0.00022804480365544444
+      }
+    ]
+  }
+]

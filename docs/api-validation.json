@@ -1,0 +1,25 @@
+{
+  "checks": [
+    "auth",
+    "session isolation",
+    "head range",
+    "actual ablation",
+    "exact restore",
+    "token limit",
+    "8-run eviction",
+    "10-minute expiry",
+    "UTF16 offsets"
+  ],
+  "latency_cpu_local": {
+    "128": {
+      "runs": 30,
+      "median_seconds": 0.09881795850014896,
+      "p95_seconds": 0.1892041480992702
+    },
+    "256": {
+      "runs": 30,
+      "median_seconds": 0.22656410400122695,
+      "p95_seconds": 0.27975164564832083
+    }
+  }
+}

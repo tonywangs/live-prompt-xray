@@ -1,0 +1,41 @@
+{
+  "parity_max_abs": 0.00020599365234375,
+  "checks": [
+    {
+      "prompt": "Once upon a",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.035979292002593866
+    },
+    {
+      "prompt": "Alice gave Bob a book. Bob thanked",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.037212084000202594
+    },
+    {
+      "prompt": " red blue green red blue green red",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.037172917000134476
+    },
+    {
+      "prompt": "The rain fell softly. The rain fell",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.03699504099859041
+    },
+    {
+      "prompt": "Wait, wait... What happens next?",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.03615095900022425
+    },
+    {
+      "prompt": "The captial of France is",
+      "restore_exact": true,
+      "ablation_changes_output": true,
+      "latency": 0.036369292000017595
+    }
+  ]
+}
