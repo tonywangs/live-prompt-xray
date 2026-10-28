@@ -1,0 +1,7 @@
+backend/
+docs/
+tests/
+.env*
+.git/
+node_modules/
+dist/

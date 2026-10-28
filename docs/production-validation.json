@@ -1,0 +1,26 @@
+{
+  "api_status": 200,
+  "prediction": {
+    "id": 783,
+    "text": " now",
+    "p": 0.04750515760936153
+  },
+  "provenance": {
+    "model": "openai-community/gpt2",
+    "model_revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+    "tokenizer_revision": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+    "dtype": "float32",
+    "device": "cpu",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.21.0",
+    "transformer_lens": "4.3.0",
+    "attention": "eager",
+    "boundary": "one explicit EOS/BOS",
+    "source": "live",
+    "parity_max_abs": 0.000152587890625,
+    "pca_sha256": "dc0abb0d61d3363faaadce65ae8d5047b26bc1375962bc9639c120c85898cc7d",
+    "latency_seconds": 0.11030211000000634,
+    "head_concentration": "sum of squared attention weights",
+    "intervention": null
+  }
+}

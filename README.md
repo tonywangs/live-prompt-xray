@@ -24,7 +24,7 @@ Open **Connect** and enter that token. Vite proxies `/api` to the local service.
 
 ## Deploy
 
-The frontend deploys to Vercel. Set `XRAY_BACKEND_URL` to the Modal endpoint; the server proxy forwards the private access token, never embeds it in the browser bundle. Deploy the backend with `python backend/deploy.py` after authenticating Modal. It creates an ignored, permission-restricted `.env.local` and a Modal secret. Do not commit or share that file.
+The frontend deploys to Vercel. The `/api` rewrite in `vercel.json` points to the Modal endpoint and forwards the private access token; no secret is embedded in the browser bundle. Change that destination when deploying your own backend. Deploy the backend with `python backend/deploy.py` after authenticating Modal. It creates an ignored, permission-restricted `.env.local` and a Modal secret. Do not commit or share that file.
 
 The CPU service serializes computation, allows at most four concurrent sessions, caches eight runs per session for ten minutes, and caps the first pilot at **50 attempted model runs across worker restarts** using a Modal dictionary. It has one worker, a 120-second timeout and 60-second idle scale-down. Review usage before explicitly resetting the pilot counter. Public visitors can use the recorded gallery without invoking compute. No GPU has been allocated.
 
