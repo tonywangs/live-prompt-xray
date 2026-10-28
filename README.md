@@ -1,5 +1,9 @@
 # Live Prompt X-ray
 
+**[Open the app](https://live-prompt-xray.vercel.app/) · [Video downloads](https://github.com/tonywangs/live-prompt-xray/releases/tag/v0.1.0)**
+
+![App preview](docs/preview.jpg)
+
 Look inside one GPT-2 prediction. Select tokens and heads, inspect attention and fixed-basis query/key projections, pin a baseline, edit the input, and zero-ablate a head to measure its effect.
 
 ## Run

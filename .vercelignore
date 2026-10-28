@@ -5,3 +5,5 @@ tests/
 .git/
 node_modules/
 dist/
+
+exports/
